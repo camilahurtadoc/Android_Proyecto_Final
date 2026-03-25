@@ -1,9 +1,10 @@
-package com.example.android_proyecto_final
+package com.app.pokeapi
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
+import com.app.pokeapi.adapter.PokemonAdapter
 import com.app.pokeapi.api.PokemonApiService
 import com.app.pokeapi.model.Pokemon
 import com.google.android.material.appbar.MaterialToolbar
@@ -59,6 +60,5 @@ class MainActivity : AppCompatActivity() {
                 t.printStackTrace()
             }
         })
-
     }
 }

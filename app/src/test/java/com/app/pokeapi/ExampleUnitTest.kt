@@ -1,4 +1,4 @@
-package com.example.android_proyecto_final
+package com.app.pokeapi
 
 import org.junit.Test
 
