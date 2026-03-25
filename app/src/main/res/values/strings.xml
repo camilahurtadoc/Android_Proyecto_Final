@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">Android_Proyecto_Final</string>
+    <string name="app_name">Android_Proyecto_Final: PokeAPI</string>
+
+    // activity_main
+    <string name="main_title">Pokédex</string>
+
+    // item_pokemon
+    <string name="image_description">Foto de pokemon</string>
 </resources>
